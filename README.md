@@ -1,7 +1,3 @@
-Pipeable & non pipeable `Monad` instances for redux selectors.
-
-**Example:**
-
 ```typescript
 import * as A from 'fp-ts/Array'
 import * as O from 'fp-ts/Option'

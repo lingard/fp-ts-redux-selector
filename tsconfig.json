@@ -7,7 +7,7 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "lib": [],
-    "sourceMap": false,
+    "sourceMap": true,
     "declaration": true,
     "strict": true,
     "noImplicitReturns": true,
@@ -18,6 +18,8 @@
     "stripInternal": true
   },
   "include": [
-    "./src"
+    "./src",
+    "./test",
+    "./scripts"
   ]
 }

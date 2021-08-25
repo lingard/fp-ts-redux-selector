@@ -1,0 +1,8 @@
+{
+  "exclude": [
+    "src/math.ts",
+    "src/Int.ts",
+    "src/Hue.ts",
+    "src/UnitInterval.ts"
+  ]
+}
